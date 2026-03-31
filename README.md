@@ -1,4 +1,4 @@
-# expense-tracker
+# Expense-tracker
 
 so basically i built this because i checked my bank balance one day and had absolutely no idea where ₹3,000 had disappeared. canteen probably. autos definitely. i'd tried the notes app, a spreadsheet i made once and never opened again, even a whatsapp group where i sent myself messages. none of it worked.
 
