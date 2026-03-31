@@ -8,7 +8,7 @@ it's a java desktop app. you add an expense, you can filter by date or category,
 
 ---
 
-## how to run it
+## How to run it
 
 you need java 11 or above. that's literally it, no maven no gradle no extra jars.
 
@@ -25,7 +25,7 @@ java -cp out com.expensetracker.Main
 
 ---
 
-## what's inside
+## What's inside
 
 ```
 expense-tracker/
@@ -43,19 +43,19 @@ expense-tracker/
 
 ---
 
-## how to use it
+## How to use it
 
-**adding something** — hit `+ Add`, fill in the title, amount, pick a category, date is pre-filled to today. note is optional. save.
+**Adding something** — hit `+ Add`, fill in the title, amount, pick a category, date is pre-filled to today. note is optional. save.
 
-**editing/deleting** — click a row to select it, then hit edit or delete. works even if you've sorted the table by a column.
+**Editing/deleting** — click a row to select it, then hit edit or delete. works even if you've sorted the table by a column.
 
-**filtering** — use the dropdowns at the top, pick category and/or a date range, click apply. the bar at the bottom shows filtered count and subtotal. clear button brings everything back.
+**Filtering** — use the dropdowns at the top, pick category and/or a date range, click apply. the bar at the bottom shows filtered count and subtotal. clear button brings everything back.
 
-**summary tab** — click it and it shows total spent, a bar chart split by category, and percentage breakdown on the right. refreshes every time you switch to it.
+**Summary tab** — click it and it shows total spent, a bar chart split by category, and percentage breakdown on the right. refreshes every time you switch to it.
 
 ---
 
-## the csv is just plain text
+## The csv is just plain text
 
 ```
 id,title,amount,category,date,note
@@ -67,7 +67,7 @@ you can open it in excel, copy it as a backup, read it in notepad if something b
 
 ---
 
-## stuff i know is missing
+## Stuff i know is missing
 
 - date input is a plain text field, typing yyyy-mm-dd every time is annoying, a calendar picker would've been better but every jdatepicker i found was an external library
 - no budget warnings — it tells you what you spent, doesn't warn you while you still have time to stop
