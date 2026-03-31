@@ -1,6 +1,6 @@
 # Expense-tracker
 
-so basically i built this because i checked my bank balance one day and had absolutely no idea where ₹3,000 had disappeared. canteen probably. autos definitely. i'd tried the notes app, a spreadsheet i made once and never opened again, even a whatsapp group where i sent myself messages. none of it worked.
+So basically i built this because i checked my bank balance one day and had absolutely no idea where ₹3,000 had disappeared. canteen probably. autos definitely. i'd tried the notes app, a spreadsheet i made once and never opened again, even a whatsapp group where i sent myself messages. none of it worked.
 
 every actual expense app i looked at wanted a login or a subscription or asked me to link my bank account. i just wanted to type what i spent and see a chart at the end of the month. so i built it instead.
 
